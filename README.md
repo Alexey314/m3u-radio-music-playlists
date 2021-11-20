@@ -7,7 +7,7 @@ this repo now includes 3 extra streams made by me, `---everyhting.m3u` , `---ran
 
 `---randomized.m3u` is exactly like the everything stream but every line was shuffled and randomized
 
-'---sorted.m3u' is exactly like the everything stream but the links themselves are sorted alphabetically/numerically, it's good for when you have found a good radio station with many different genres of music to listen to all of them in order
+`---sorted.m3u` is exactly like the everything stream but the links themselves are sorted alphabetically/numerically, it's good for when you have found a good radio station with many different genres of music to listen to all of them in order
 
 these 3 files have had extra info, cover images and duplicate links removed to make them smaller and easier to download/load into a player, every time i push an update these 3 files will also get updated and the randomized stream will also get shuffled again
 
