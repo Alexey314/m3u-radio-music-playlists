@@ -18,10 +18,10 @@ http://ice.abradio.cz:80/blanikfm128.mp3
 http://stream.radioreklama.bg/bgradio128
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1537440370.jpg" group-title="POP Radio - radio.pervii.com", RTL 102.5 - 256 kbit/s
 https://streamingv2.shoutcast.com/rtl-1025
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1551188709.jpg" group-title="POP Radio - radio.pervii.com", Radio Park Fm - 128 kbit/s
-https://sluchaj2.radiopark.biz.pl:8443/stream
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1537446386.jpg" group-title="POP Radio - radio.pervii.com", Stilnoe radio - Perec FM - 128 kbit/s
 http://radio.stilnoe.fm:8080/radio-stilnoe
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1551188709.jpg" group-title="POP Radio - radio.pervii.com", Radio Park Fm - 128 kbit/s
+https://sluchaj2.radiopark.biz.pl:8443/stream
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1537443986.jpg" group-title="POP Radio - radio.pervii.com", PAL STATION - 128 kbit/s
 http://shoutcast.radyogrup.com:1020/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1561725359.jpg" group-title="POP Radio - radio.pervii.com", KRAL POP - 128 kbit/s
@@ -170,14 +170,14 @@ http://94.136.28.13:8014/radiomelodie
 http://80.232.162.149:8000/plus96mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403713535.png" group-title="POP Radio - radio.pervii.com", Keizerstad Classics - 192 kbit/s
 http://server-24.stream-server.nl:8800/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1553691560.jpg" group-title="POP Radio - radio.pervii.com", MEGA FM - 192 kbit/s
-http://107-182-231-169.webnow.com.br/mega.aac
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1550062189.jpg" group-title="POP Radio - radio.pervii.com", Radio Bucovina Populara - www.RadioBucovina.ro - 128 kbit/s
 http://live.radiobucovina.ro:8000/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1537517643.jpg" group-title="POP Radio - radio.pervii.com", RADYO POP - 192 kbit/s
-http://sc2.dgntek.com:80/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1553691560.jpg" group-title="POP Radio - radio.pervii.com", MEGA FM - 128 kbit/s
+http://107-182-231-169.webnow.com.br/mega.aac
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1549692060.jpg" group-title="POP Radio - radio.pervii.com", 97.1FM - RDI FM Jakarta - 128 kbit/s
 http://202.147.199.99:8000/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1537517643.jpg" group-title="POP Radio - radio.pervii.com", RADYO POP - 192 kbit/s
+http://sc2.dgntek.com:80/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1561710260.jpg" group-title="POP Radio - radio.pervii.com", Radio Maxi - 128 kbit/s
 http://live.radio.si/Maxi
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1594911672.jpg" group-title="POP Radio - radio.pervii.com", Radyo Romantik Türk - 128 kbit/s

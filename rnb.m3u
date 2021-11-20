@@ -100,12 +100,12 @@ http://radios.viaflux.com:5555/live
 http://87.98.216.129:12906/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1553531292.jpg" group-title="RNB Radio - radio.pervii.com", Jamm FM Radio Costa del Sol - 320 kbit/s
 http://81.169.196.110:8075/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/241180.png" group-title="RNB Radio - radio.pervii.com", AirlessRadio - Mind and Body Bath - 128 kbit/s
-http://pureplay.cdnstream1.com/6059_128.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/4855.jpg" group-title="RNB Radio - radio.pervii.com", 181.FM The Box (Urban) - 128 kbit/s
 http://208.84.155.82:8024
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1575731352.jpg" group-title="RNB Radio - radio.pervii.com", xeya - 128 kbit/s
 http://192.187.112.50:8170/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/241180.png" group-title="RNB Radio - radio.pervii.com", AirlessRadio - Mind and Body Bath - 128 kbit/s
+http://pureplay.cdnstream1.com/6059_128.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/118506.jpg" group-title="RNB Radio - radio.pervii.com", 97.5 KEMET FM - 128 kbit/s
 http://109.169.26.139:8120/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1594263458.jpg" group-title="RNB Radio - radio.pervii.com", TDI Radio Pop RNB Hits - 128 kbit/s
@@ -118,12 +118,12 @@ http://sc18.strictlyhosting.co.uk:8000
 http://hestia2.cdnstream.com:80/1070_64
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403629780.png" group-title="RNB Radio - radio.pervii.com", Radio-Tube Drum and Bass - 128 kbit/s
 http://91.232.4.33:7022/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/27402.jpg" group-title="RNB Radio - radio.pervii.com", BarakaFM - 192 kbit/s
-http://s2.myradiostream.com:5788/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1550154531.jpg" group-title="RNB Radio - radio.pervii.com", Undergroundfm - 128 kbit/s
 http://uk1.internet-radio.com:8118/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1553393564.jpg" group-title="RNB Radio - radio.pervii.com", Zero Radio - 128 kbit/s
 http://uk7.internet-radio.com:8188/live
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/27402.jpg" group-title="RNB Radio - radio.pervii.com", BarakaFM - 192 kbit/s
+http://s2.myradiostream.com:5788/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/22913.jpg" group-title="RNB Radio - radio.pervii.com", Futuredrumz.com Jungle Drum &amp; Bass Radio - 128 kbit/s
 http://5.39.71.159:8625/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403715520.png" group-title="RNB Radio - radio.pervii.com", Radio 808 - 256 kbit/s
@@ -132,13 +132,13 @@ http://stream.radio808.info:8003
 http://pluto.bmradio.de:8002/bmradio
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1561051366.jpg" group-title="RNB Radio - radio.pervii.com", Radio Flash Lebanon R.F.L - 128 kbit/s
 http://162.244.80.68:8000/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1563245957.jpg" group-title="RNB Radio - radio.pervii.com", Biblia - Radio Chrzescijanin - 48 kbit/s
-http://s1.slotex.pl:7116/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1563245957.jpg" group-title="RNB Radio - radio.pervii.com", Brokenbeats.net - Atmospheric Drum&#039;n&#039;Base DNB s0urce - 48 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1561051366.jpg" group-title="RNB Radio - radio.pervii.com", Brokenbeats.net - Atmospheric Drum&#039;n&#039;Base DNB s0urce - 128 kbit/s
 http://brokenbeats.net:8000/radiosource
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1556673016.jpg" group-title="RNB Radio - radio.pervii.com", K-100 Radio Hip Hop | RnB | Talk - 128 kbit/s
 http://198.27.83.198:5904/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1556673016.jpg" group-title="RNB Radio - radio.pervii.com", UGN RADIO - 128 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1563245957.jpg" group-title="RNB Radio - radio.pervii.com", Biblia - Radio Chrzescijanin - 48 kbit/s
+http://s1.slotex.pl:7116/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1563245957.jpg" group-title="RNB Radio - radio.pervii.com", UGN RADIO - 48 kbit/s
 http://ice31.securenetsystems.net/UGNR
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1552703700.jpg" group-title="RNB Radio - radio.pervii.com", Cowpoke Classic Country Radio - 256 kbit/s
 http://184.164.135.70:8133

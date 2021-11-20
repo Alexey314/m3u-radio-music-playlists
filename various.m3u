@@ -144,11 +144,11 @@ http://62.80.190.246:8000/NRK128
 http://64.78.234.165:8000/stream/9/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1572836410.jpg" group-title="VARIOUS Radio - radio.pervii.com", La Konsentida 100.1 Fm - 96 kbit/s
 https://radiohd.streaminghd.co:7406/stream
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1574511752.jpg" group-title="VARIOUS Radio - radio.pervii.com", Radio Boa Nova - 96 kbit/s
-http://srv39.brasilstream.com.br:8592/mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1537527092.jpg" group-title="VARIOUS Radio - radio.pervii.com", KXT 91.7 128kbps MP3 - 192 kbit/s
 http://kera-ice.streamguys.us/kxtlive128
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1561762526.jpg" group-title="VARIOUS Radio - radio.pervii.com", EFM - 192 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1574511752.jpg" group-title="VARIOUS Radio - radio.pervii.com", Radio Boa Nova - 96 kbit/s
+http://srv39.brasilstream.com.br:8592/mp3
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1561762526.jpg" group-title="VARIOUS Radio - radio.pervii.com", EFM - 96 kbit/s
 https://atimeonline.smartclick.co.th/efm
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1553416790.jpg" group-title="VARIOUS Radio - radio.pervii.com", M1.FM - Hits - 128 kbit/s
 http://tuner.m1.fm/hits.mp3
@@ -174,10 +174,10 @@ http://stream.knvbc.com:8000/listen
 http://icecast8.play.cz:80/cro1-128.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1552117579.jpg" group-title="VARIOUS Radio - radio.pervii.com", FREEDOM2 - 96 kbit/s
 http://stric6.streamakaci.com:80/freedom2.mp3
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/0809132136.jpg" group-title="VARIOUS Radio - radio.pervii.com", Obondoru radio - 96 kbit/s
+http://31.192.250.52:8000/obondoru128
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/23058.jpg" group-title="VARIOUS Radio - radio.pervii.com", RussianFM.de | 24/7h - 128 kbit/s
 http://radio.russianfm.de:8000
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/0809132136.jpg" group-title="VARIOUS Radio - radio.pervii.com", Obondoru radio - 128 kbit/s
-http://31.192.250.52:8000/obondoru128
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1554815819.jpg" group-title="VARIOUS Radio - radio.pervii.com", RADIO MENARA 102.8 FM BALI - 128 kbit/s
 http://menarafm.onlivestreaming.net:10280/menarafmbali
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1554815819.jpg" group-title="VARIOUS Radio - radio.pervii.com", Contact, la radio enjoy - 128 kbit/s

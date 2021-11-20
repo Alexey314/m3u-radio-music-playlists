@@ -66,26 +66,26 @@ http://onair.krone.at/kronehit-90sdance.mp3
 http://paineldj4.com.br:11870/stream.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1494171997.jpg" group-title="90S Radio - radio.pervii.com", Callisto Radio® - 256 kbit/s
 http://188.165.11.30:4500/live.mp3?=2
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1553670714.jpg" group-title="90S Radio - radio.pervii.com", DI Radio Digital Impulse - Best Dance &apos;90s - 320 kbit/s
-http://orion.shoutca.st:8643/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1494171997.jpg" group-title="90S Radio - radio.pervii.com", Callisto Radio Music Station - 256 kbit/s
 http://188.165.11.30:4500/live.mp3?=1
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1552792182.jpg" group-title="90S Radio - radio.pervii.com", 011.FM - 90s Alternative - 192 kbit/s
 http://listen.011fm.com:80/stream17
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403589169.png" group-title="90S Radio - radio.pervii.com", Life 100.9 FM - 192 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1553670714.jpg" group-title="90S Radio - radio.pervii.com", DI Radio Digital Impulse - Best Dance &apos;90s - 320 kbit/s
+http://orion.shoutca.st:8643/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403589169.png" group-title="90S Radio - radio.pervii.com", Life 100.9 FM - 320 kbit/s
 http://tunein.gvstream.net:9036
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403589169.png" group-title="90S Radio - radio.pervii.com", http://myradiostream.com/castlefmscotland - 320 kbit/s
 http://94.23.205.82:10126/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1560950924.jpg" group-title="90S Radio - radio.pervii.com", Radio Onda Libera - 96 kbit/s
-http://212.7.194.63:9064/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1549423873.jpg" group-title="90S Radio - radio.pervii.com", RADIO CLASIC HITS - 96 kbit/s
-http://clasicradio.ro:7000/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/92855.jpg" group-title="90S Radio - radio.pervii.com", Radio Crisami Romania - 128 kbit/s
 http://137.74.148.248:8130
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1446324478.jpg" group-title="90S Radio - radio.pervii.com", 1000 HITS 90s - 128 kbit/s
 http://c4.auracast.net:8050/stream
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403660735.png" group-title="90S Radio - radio.pervii.com", Radio Northsea International - 192 kbit/s
 http://159.69.2.138:7000/stream/2/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1560950924.jpg" group-title="90S Radio - radio.pervii.com", Radio Onda Libera - 96 kbit/s
+http://212.7.194.63:9064/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1549423873.jpg" group-title="90S Radio - radio.pervii.com", RADIO CLASIC HITS - 96 kbit/s
+http://clasicradio.ro:7000/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403630429.png" group-title="90S Radio - radio.pervii.com", Radio Kafe RADIO CAFE 90 FM - 128 kbit/s
 http://s03.radio-tochka.com:6045
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1550548890.jpg" group-title="90S Radio - radio.pervii.com", RetroCountry890.com - 128 kbit/s
@@ -110,34 +110,34 @@ http://194.88.105.64:8926/stream/1/
 http://163.172.77.142:8618/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1563036592.jpg" group-title="90S Radio - radio.pervii.com", Pulse Talk Radio - 128 kbit/s
 http://176.31.107.8:8615/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403644747.png" group-title="90S Radio - radio.pervii.com", Retro Hit Radio - 128 kbit/s
-http://gemini.shoutca.st:8293/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1561123313.jpg" group-title="90S Radio - radio.pervii.com", UKG247.COM - 07561 884 UKG - 128 kbit/s
-http://87.117.201.160:8200
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1549908972.jpg" group-title="90S Radio - radio.pervii.com", Radio Star U.S.A. ! Muzica romaneasca: populara, manele, petrecere, dance&amp;pop! - 128 kbit/s
-http://199.15.251.190:8010/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1537445931.jpg" group-title="90S Radio - radio.pervii.com", ...::: Demo Station :::... - 128 kbit/s
 http://199.180.75.118:80/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1537445931.jpg" group-title="90S Radio - radio.pervii.com", Dave FM NZ - 128 kbit/s
 http://91.121.1.157:4618/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1550496524.jpg" group-title="90S Radio - radio.pervii.com", ****www.muziekknallers.nl***keihard de beste!*** - 192 kbit/s
 http://server-28.stream-server.nl:8968/stream
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1572766785.jpg" group-title="90S Radio - radio.pervii.com", RadioSrbac - 128 kbit/s
-http://91.121.195.222:4858/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1572766785.jpg" group-title="90S Radio - radio.pervii.com", Play Radio Hit 90S - 128 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403644747.png" group-title="90S Radio - radio.pervii.com", Retro Hit Radio - 192 kbit/s
+http://gemini.shoutca.st:8293/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1561123313.jpg" group-title="90S Radio - radio.pervii.com", UKG247.COM - 07561 884 UKG - 128 kbit/s
+http://87.117.201.160:8200
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1549908972.jpg" group-title="90S Radio - radio.pervii.com", Radio Star U.S.A. ! Muzica romaneasca: populara, manele, petrecere, dance&amp;pop! - 128 kbit/s
+http://199.15.251.190:8010/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1549908972.jpg" group-title="90S Radio - radio.pervii.com", Play Radio Hit 90S - 128 kbit/s
 http://5.135.80.9:8000/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1595122649.jpg" group-title="90S Radio - radio.pervii.com", Blackwood FM - 192 kbit/s
 https://server-21.stream-server.nl:18326/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1595122649.jpg" group-title="90S Radio - radio.pervii.com", Radio Dancefloor - 90&#039;s - 96 kbit/s
 http://streaming.radiodancefloor.it:80/dancefloor.mp3
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1572766785.jpg" group-title="90S Radio - radio.pervii.com", RadioSrbac - 128 kbit/s
+http://91.121.195.222:4858/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1578031942.jpg" group-title="90S Radio - radio.pervii.com", 90s90s - ClubHits - 192 kbit/s
 http://90s90s.hoerradar.de/90s90s-main-mp3-hq
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1578031942.jpg" group-title="90S Radio - radio.pervii.com", Radio Dreams Clasic - 192 kbit/s
+http://5.2.184.92:3399/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1578031942.jpg" group-title="90S Radio - radio.pervii.com", Radio Uniek Rotterdam - 128 kbit/s
+http://185.224.90.47:8042/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1561044171.jpg" group-title="90S Radio - radio.pervii.com", Planet 90 | Your 90&apos;s dance source | - 192 kbit/s
 http://37.59.195.28:8280/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1561044171.jpg" group-title="90S Radio - radio.pervii.com", Radio Dreams Clasic - 192 kbit/s
-http://5.2.184.92:3399/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1561044171.jpg" group-title="90S Radio - radio.pervii.com", Radio Uniek Rotterdam - 128 kbit/s
-http://185.224.90.47:8042/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1574525189.jpg" group-title="90S Radio - radio.pervii.com", ICE RADIO WALDKRAIBURG Dein Cooler Internet Radiosender Aus Oberbayern - 128 kbit/s
 http://server29785.streamplus.de:10730/stream
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1549705684.jpg" group-title="90S Radio - radio.pervii.com", Radio Oldies Romania - 128 kbit/s
@@ -152,9 +152,7 @@ http://91.121.174.141:29274/stream/1/
 http://148.251.88.105:8000
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1555136191.jpg" group-title="90S Radio - radio.pervii.com", Radio UDG Guzman - 128 kbit/s
 http://148.202.119.233:8080/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1537454161.jpg" group-title="90S Radio - radio.pervii.com", Arabella 90s - 128 kbit/s
-http://arabella.stream.kapper.net:8004/arabella90s
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1537454161.jpg" group-title="90S Radio - radio.pervii.com", Hit Music 90s - 128 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1555136191.jpg" group-title="90S Radio - radio.pervii.com", Hit Music 90s - 128 kbit/s
 http://sc4.easywebcommunications.com:18022/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1571495031.jpg" group-title="90S Radio - radio.pervii.com", Ideaal FM - 192 kbit/s
 http://server-27.stream-server.nl:8564/stream/1/
@@ -164,8 +162,8 @@ http://198.74.51.37:9332/stream/1/
 http://192.96.201.2:7060/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/118935.jpg" group-title="90S Radio - radio.pervii.com", Studio 2000 Vintage - 128 kbit/s
 http://s3.shoutitaly.com:8042/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/118935.jpg" group-title="90S Radio - radio.pervii.com", Radio TOTAL Romania - 128 kbit/s
-http://91.220.63.121:8000/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1537454161.jpg" group-title="90S Radio - radio.pervii.com", Arabella 90s - 128 kbit/s
+http://arabella.stream.kapper.net:8004/arabella90s
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1594266143.jpg" group-title="90S Radio - radio.pervii.com", The Beat Sweden - 192 kbit/s
 http://listen.thebeat.se:8154/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403573476.png" group-title="90S Radio - radio.pervii.com", Popradio Ostfriesland - 192 kbit/s
@@ -174,10 +172,8 @@ http://62.113.206.180:8010/stream/1/
 http://listento.pureradio.one:8000/pure_192
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403573476.png" group-title="90S Radio - radio.pervii.com", Radio 4 Brainport - 192 kbit/s
 http://194.88.105.64:8852/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403573476.png" group-title="90S Radio - radio.pervii.com", Pureradio.One - Best of 70s/80s/90s [64kbit AAC+] - 192 kbit/s
-http://listento.pureradio.one:8000/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403573476.png" group-title="90S Radio - radio.pervii.com", Yesterday.fm - 80&#039;s and more - 192 kbit/s
-http://telekom.powersender.de:31883/yesterdayfm
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403573476.png" group-title="90S Radio - radio.pervii.com", Radio TOTAL Romania - 128 kbit/s
+http://91.220.63.121:8000/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403573476.png" group-title="90S Radio - radio.pervii.com", Unnamed Server - 64 kbit/s
 http://shout.ifactorystream.net:9016
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1537543609.jpg" group-title="90S Radio - radio.pervii.com", wunschradio.fm 90er - 320 kbit/s
@@ -192,11 +188,15 @@ http://199.15.251.190:8010/listen.pls
 http://real2.streaming-co.com:8007
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403831998.png" group-title="90S Radio - radio.pervii.com", A-0 90s Radio - 128 kbit/s
 http://naxos.cdnstream.com/1288_128
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403831998.png" group-title="90S Radio - radio.pervii.com", RADIO GOLDEN FLASH - 320 kbit/s
-http://uplink.intronic.nl/goldenflash
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1561035239.jpg" group-title="90S Radio - radio.pervii.com", NIO FM - 320 kbit/s
-http://31.186.170.12:3062/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403831998.png" group-title="90S Radio - radio.pervii.com", Pureradio.One - Best of 70s/80s/90s [64kbit AAC+] - 128 kbit/s
+http://listento.pureradio.one:8000/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403831998.png" group-title="90S Radio - radio.pervii.com", Yesterday.fm - 80&#039;s and more - 192 kbit/s
+http://telekom.powersender.de:31883/yesterdayfm
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1555291882.jpg" group-title="90S Radio - radio.pervii.com", ABF GOLD [Propulsed by Frequence 3 & Powered by IKOULA] - 128 kbit/s
 http://abf.net-radio.fr/m2rock-256.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403594195.png" group-title="90S Radio - radio.pervii.com", Heartbeat Radio - 128 kbit/s
 http://149.56.185.82:8139
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403504895.png" group-title="90S Radio - radio.pervii.com", BigR - 90s Alternative Rock - 128 kbit/s
+http://107.155.111.170:8030
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1556526153.jpg" group-title="90S Radio - radio.pervii.com", Volldampfradio.com  -Anklicken, Reinh - 128 kbit/s
+http://stream.vdr-server.de:4010
