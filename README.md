@@ -86,12 +86,17 @@ cat $( ls ~/Music/bare_m3u/*.m3u -v ) | sed -n '/^#/!p' | awk '!seen[$0]++' > ~/
 ```
 because `cat` doesn't list alphabetically we use `ls` in tandom with it, use `sed` to remove every line that starts with `#` to make the final file smaller and write everything to the final m3u stream and `awk` here remove duplicate lines
 
-5rd step: make the ---randomized.m3u stream by shuffeling the contents of ---everyhting.m3u
+5rd step: make the ---randomized.m3u and ---sorted.m3u stream by shuffeling the contents of ---everyhting.m3u
 ```
 cat ~/Music/bare_m3u/---everyhting.m3u | shuf > ~/Music/bare_m3u/---randomized.m3u
 ```
 `shuf` does the shuffeling for us
 
+```
+cat ~/Music/bare_m3u/---everyhting.m3u | sort | awk 'length>10' > ~/Music/bare_m3u/---sorted.m3u
+```
+`sort` sorts the links for us and we use `awk` to remove the few broken links that are less than 10 characters 
+  
 6rd step: move everything to our repos git directory, all the git stuff happens here, the move command overwrites everything that was there before
 ```
 mv ~/Music/bare_m3u/*.m3u ~/Music/m3u-radio-music-playlists
@@ -119,6 +124,7 @@ now for the complete script, save it to a file and give it `.sh` extension and r
 for f in ~/Music/bare_m3u/*.m3u ; do mv "$f" "$(echo "$f" | sed -e 's/top_radio_//g')"; done
 cat $( ls ~/Music/bare_m3u/*.m3u -v ) | sed -n '/^#/!p' | awk '!seen[$0]++' > ~/Music/bare_m3u/---everyhting.m3u
 cat ~/Music/bare_m3u/---everyhting.m3u | shuf > ~/Music/bare_m3u/---randomized.m3u
+cat ~/Music/bare_m3u/---everyhting.m3u | sort | awk 'length>10' > ~/Music/bare_m3u/---sorted.m3u
 mv ~/Music/bare_m3u/*.m3u ~/Music/m3u-radio-music-playlists
 git -C ~/Music/m3u-radio-music-playlists add .
 git -C ~/Music/m3u-radio-music-playlists commit -m "updating"
