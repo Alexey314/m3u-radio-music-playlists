@@ -108,7 +108,21 @@ http://addrad.io/4WRG3C
 http://addrad.io/4WRF_7
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/4225.jpg" group-title="SCHLAGER Radio - radio.pervii.com", Reggae Rhythm Radio - 256 kbit/s
 http://188.138.9.183:80/reggae.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/4225.jpg" group-title="SCHLAGER Radio - radio.pervii.com", Schlagerplanet Radio - 100% Deutsch - 192 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/4225.jpg" group-title="SCHLAGER Radio - radio.pervii.com", Schlagerplanet ­ 100% Weihnachten - 128 kbit/s
+http://streams.schlagerplanetradio.com/weihnachten/mp3-128
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/4225.jpg" group-title="SCHLAGER Radio - radio.pervii.com", antenne.com schlager - 128 kbit/s
+http://stream.antenne.com/schlager/mp3-128
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1586769448.jpg" group-title="SCHLAGER Radio - radio.pervii.com", Dinkelwelle (MB RECASTER) - 192 kbit/s
+http://144.76.84.153:22126/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1586769448.jpg" group-title="SCHLAGER Radio - radio.pervii.com", FFH SCHLAGER - 128 kbit/s
+http://mp3.ffh.de/ffhchannels/hqschlager.mp3
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1302921396.jpg" group-title="SCHLAGER Radio - radio.pervii.com", ANTENNE BAYERN Schlagersahne - 128 kbit/s
+http://mp3channels.webradio.de/das-schlager-karussell
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1573309420.jpg" group-title="SCHLAGER Radio - radio.pervii.com", Radio FM1 - 128 kbit/s
+http://radiofm1.ice.infomaniak.ch/radiofm1-128.mp3
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1573309420.jpg" group-title="SCHLAGER Radio - radio.pervii.com", radio B2 Kult-Schlager - 128 kbit/s
+http://mp3ad.radiob2kultschlager.c.nmdn.net/radiob2kultschlager/livestream.mp3
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1573309420.jpg" group-title="SCHLAGER Radio - radio.pervii.com", Schlagerplanet Radio - 100% Deutsch - 192 kbit/s
 http://schlagerplanet.hoerradar.de/schlagerplanet-deutsch-mp3-hq
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/29371.jpg" group-title="SCHLAGER Radio - radio.pervii.com", KDSK - 92.7 FM - 32 kbit/s
 mms://63.231.116.93:23929
@@ -128,17 +142,3 @@ http://stream.laut.fm/neufeld
 http://schlagerplanet.hoerradar.de/schlagerplanet-volksmusik-mp3-hq
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1448372452.jpg" group-title="SCHLAGER Radio - radio.pervii.com", Radio Jodlerwirt 1 - 128 kbit/s
 www.radionomy.com/radio-jodlerwirt1
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1448372452.jpg" group-title="SCHLAGER Radio - radio.pervii.com", antenne.com schlager - 128 kbit/s
-http://stream.antenne.com/schlager/mp3-128
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1448372452.jpg" group-title="SCHLAGER Radio - radio.pervii.com", Schlagerplanet ­ 100% Weihnachten - 128 kbit/s
-http://streams.schlagerplanetradio.com/weihnachten/mp3-128
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1448372452.jpg" group-title="SCHLAGER Radio - radio.pervii.com", FFH SCHLAGER - 128 kbit/s
-http://mp3.ffh.de/ffhchannels/hqschlager.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1302921396.jpg" group-title="SCHLAGER Radio - radio.pervii.com", ANTENNE BAYERN Schlagersahne - 128 kbit/s
-http://mp3channels.webradio.de/das-schlager-karussell
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1586769448.jpg" group-title="SCHLAGER Radio - radio.pervii.com", Dinkelwelle (MB RECASTER) - 192 kbit/s
-http://144.76.84.153:22126/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1586769448.jpg" group-title="SCHLAGER Radio - radio.pervii.com", radio B2 Kult-Schlager - 128 kbit/s
-http://mp3ad.radiob2kultschlager.c.nmdn.net/radiob2kultschlager/livestream.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1573309420.jpg" group-title="SCHLAGER Radio - radio.pervii.com", Radio FM1 - 128 kbit/s
-http://radiofm1.ice.infomaniak.ch/radiofm1-128.mp3

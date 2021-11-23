@@ -82,17 +82,19 @@ http://184.164.135.70:8070
 http://usa6.fastcast4u.com:5034/live_autodj
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1573824233.jpg" group-title="WAVE Radio - radio.pervii.com", EURO 80&#039;s RADIO - Mario Deleon - 128 kbit/s
 http://server.datalivehd.com:7134/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1573824233.jpg" group-title="WAVE Radio - radio.pervii.com", Wave Radio - 128 kbit/s
+http://37.59.38.180:10352/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403862944.png" group-title="WAVE Radio - radio.pervii.com", Best Net Radio - New Wave - 128 kbit/s
 http://bigrradio-edge1.cdnstream.com/5162_128
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403862944.png" group-title="WAVE Radio - radio.pervii.com", Wave Radio - 128 kbit/s
-http://37.59.38.180:10352/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403504965.png" group-title="WAVE Radio - radio.pervii.com", &quot;AddictedToRadio.com - Classic New Wave AAC&quot; - 128 kbit/s
 http://208.77.21.33:15330
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403504965.png" group-title="WAVE Radio - radio.pervii.com", Wave Farm Radio - 128 kbit/s
 http://audio.wavefarm.org:8000/transmissionarts.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403504965.png" group-title="WAVE Radio - radio.pervii.com", Radio Schwarze Welle - 128 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403901614.png" group-title="WAVE Radio - radio.pervii.com", BeGoodRadio - 80s New Wave - 128 kbit/s
+https://ors.cdnstream1.com/5214_128
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403901614.png" group-title="WAVE Radio - radio.pervii.com", Radio Schwarze Welle - 128 kbit/s
 http://www.schwarze-welle.de:7500
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403504965.png" group-title="WAVE Radio - radio.pervii.com", 94.1 Wave 94 - WAKU - 32 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403901614.png" group-title="WAVE Radio - radio.pervii.com", 94.1 Wave 94 - WAKU - 32 kbit/s
 mms://streamer2.securenetsystems.net/WAKU
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1561761990.jpg" group-title="WAVE Radio - radio.pervii.com", Green wave - 32 kbit/s
 https://atimeonline.smartclick.co.th/green
@@ -100,5 +102,3 @@ https://atimeonline.smartclick.co.th/green
 https://atimeonline.smartclick.co.th/green?
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1561761990.jpg" group-title="WAVE Radio - radio.pervii.com", RUSSIAN WAVE - Russkaya Volna - 32 kbit/s
 http://air.volna.top:80/RuWave48
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403901614.png" group-title="WAVE Radio - radio.pervii.com", BeGoodRadio - 80s New Wave - 128 kbit/s
-https://ors.cdnstream1.com/5214_128

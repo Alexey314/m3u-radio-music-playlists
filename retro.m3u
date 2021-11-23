@@ -30,10 +30,10 @@ http://edge-bauersefm-06-gos2.sharp-stream.com/retrofm_aacp
 http://gyusyabu.ddo.jp:8000/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1550548890.jpg" group-title="RETRO Radio - radio.pervii.com", RetroCountry890.com - 128 kbit/s
 http://cassini.shoutca.st:8942/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1550548890.jpg" group-title="RETRO Radio - radio.pervii.com", CRIK FM - The Lynx Retro 80s - 128 kbit/s
-http://listen.shoutcast.com/crikfm-thelynxretro80s
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1550071630.jpg" group-title="RETRO Radio - radio.pervii.com", Retro80sRadio - 128 kbit/s
 http://158.69.227.214:8113/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1550071630.jpg" group-title="RETRO Radio - radio.pervii.com", CRIK FM - The Lynx Retro 80s - 128 kbit/s
+http://listen.shoutcast.com/crikfm-thelynxretro80s
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1550071630.jpg" group-title="RETRO Radio - radio.pervii.com", Mex Rádió Retro csatorna - 128 kbit/s
 http://stream.diazol.hu:31020/retro.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1555205910.jpg" group-title="RETRO Radio - radio.pervii.com", ::::::: Retro Star Radio LittleLion ::::::::: - 320 kbit/s
@@ -56,10 +56,10 @@ http://136.243.156.30:1541/stream/1/
 http://radio.rikt.ru:8000/ys-radio
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="RETRO Radio - radio.pervii.com", Radio Caprice Retrowave - 128 kbit/s
 http://79.120.39.202:9125
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="RETRO Radio - radio.pervii.com", K104 Retro to Right Now - 256 kbit/s
-http://136.32.49.56:8000/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1302921071.jpg" group-title="RETRO Radio - radio.pervii.com", Avtoradio - Moskva 90.3 FM - 256 kbit/s
 http://radio.rikt.ru:8000/avto-radio
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1302921071.jpg" group-title="RETRO Radio - radio.pervii.com", K104 Retro to Right Now - 256 kbit/s
+http://136.32.49.56:8000/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1561212219.jpg" group-title="RETRO Radio - radio.pervii.com", knaradioweb - 128 kbit/s
 http://195.114.19.178:8012/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1561212219.jpg" group-title="RETRO Radio - radio.pervii.com", EXITOS 103.1 - 32 kbit/s
@@ -68,19 +68,19 @@ http://ur58.lorini.net:50004/EXITOS1031FM.aac
 http://199.195.194.140:8369/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403669769.png" group-title="RETRO Radio - radio.pervii.com", RadioSon.ru - your radio plays here! Radio Retro channel. - 128 kbit/s
 http://www.radioson.ru:8009/retro-fm.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403669769.png" group-title="RETRO Radio - radio.pervii.com", RadioSon.ru - your radio plays here! Radio 7 channel. - 128 kbit/s
-http://www.radioson.ru:8009/radio-7.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1594669130.jpg" group-title="RETRO Radio - radio.pervii.com", RetroMusic San Justo(SF) - 96 kbit/s
-http://178.32.146.184:5938
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1595551955.jpg" group-title="RETRO Radio - radio.pervii.com", Radio Momentos desde Santiago de Chile - 128 kbit/s
-http://5.9.65.9:8168
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1595551955.jpg" group-title="RETRO Radio - radio.pervii.com", MFM RETRO ZOUK - 128 kbit/s
-http://163.172.16.107:5008
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1587052375.jpg" group-title="RETRO Radio - radio.pervii.com", Retro Hits Good Time Oldies - 128 kbit/s
 http://149.56.183.178:8300/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1587052375.jpg" group-title="RETRO Radio - radio.pervii.com", CGM UK DemoScene Radio - 8 &amp; 16bit retro chip &amp; module music - 128 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1587052375.jpg" group-title="RETRO Radio - radio.pervii.com", RadioSon.ru - your radio plays here! Radio 7 channel. - 128 kbit/s
+http://www.radioson.ru:8009/radio-7.mp3
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1595551955.jpg" group-title="RETRO Radio - radio.pervii.com", Radio Momentos desde Santiago de Chile - 128 kbit/s
+http://5.9.65.9:8168
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1594669130.jpg" group-title="RETRO Radio - radio.pervii.com", RetroMusic San Justo(SF) - 96 kbit/s
+http://178.32.146.184:5938
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1594669130.jpg" group-title="RETRO Radio - radio.pervii.com", MFM RETRO ZOUK - 128 kbit/s
+http://163.172.16.107:5008
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1594669130.jpg" group-title="RETRO Radio - radio.pervii.com", CGM UK DemoScene Radio - 8 &amp; 16bit retro chip &amp; module music - 128 kbit/s
 http://www.lmp.d2g.com:8020/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1587052375.jpg" group-title="RETRO Radio - radio.pervii.com", EKR - RETRO ROCK (East Kent Radio Digital Network) - 128 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1594669130.jpg" group-title="RETRO Radio - radio.pervii.com", EKR - RETRO ROCK (East Kent Radio Digital Network) - 128 kbit/s
 http://149.255.59.3:8081/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1549423953.jpg" group-title="RETRO Radio - radio.pervii.com", Radio FG Vlaanderen - 128 kbit/s
 http://radiofg.impek.com/fga
