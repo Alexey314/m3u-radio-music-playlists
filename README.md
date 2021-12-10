@@ -1,16 +1,4 @@
 ## Collection of m3u Radio Playlists, Updated daily (manually)
-this repo now includes a `radio.m3u` station with various streams collected over time by many people, thanks to [ArnoldSchiller](https://github.com/ArnoldSchiller) for his pull request, this stream is not part of my usual stream updates and won't get updated as often but it's contents are getting included in my 3 own made streams listed below
-
-this repo now includes 3 extra streams made by me, `---everyhting.m3u` , `---randomized.m3u` and `---sorted.m3u`
-
-`---everyhting.m3u` combines all of the streams sorted by name
-
-`---randomized.m3u` is exactly like the everything stream but every line was shuffled and randomized
-
-`---sorted.m3u` is exactly like the everything stream but the links themselves are sorted alphabetically/numerically, it's good for when you have found a good radio station with many different genres of music to listen to all of them in order
-
-these 3 files have had extra info, cover images and duplicate links removed to make them smaller and easier to download/load into a player, every time i push an update these 3 files will also get updated and the randomized stream will also get shuffled again
-
 ### How to listen to these?
 in the terminal, do this:
 ```
@@ -166,3 +154,15 @@ git -C ~/Music/m3u-radio-music-playlists push
 ```
 
 </details>
+
+this repo now includes a `radio.m3u` station with various streams collected over time by many people, thanks to [ArnoldSchiller](https://github.com/ArnoldSchiller) for his pull request, this stream is not part of my usual stream updates and won't get updated as often but it's contents are getting included in my 3 own made streams listed below
+
+this repo now includes 3 extra streams made by me, `---everyhting.m3u` , `---randomized.m3u` and `---sorted.m3u`
+
+`---everyhting.m3u` combines all of the streams sorted by name
+
+`---randomized.m3u` is exactly like the everything stream but every line was shuffled and randomized
+
+`---sorted.m3u` is exactly like the everything stream but the links themselves are sorted alphabetically/numerically, it's good for when you have found a good radio station with many different genres of music to listen to all of them in order
+
+these 3 files have had extra info, cover images and duplicate links removed to make them smaller and easier to download/load into a player, every time i push an update these 3 files will also get updated and the randomized stream will also get shuffled again
