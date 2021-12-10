@@ -54,21 +54,21 @@ http://72.29.90.201:9092
 http://ice3.somafm.com/dronezone-256-mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1550288228.jpg" group-title="AMBIENT Radio - radio.pervii.com", Echoes of BLUEMARS - Cryosleep - 128 kbit/s
 http://streams.echoesofbluemars.org:8000/cryosleep
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1550288228.jpg" group-title="AMBIENT Radio - radio.pervii.com", FM93 - 128 kbit/s
-http://210.56.24.230:8004
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1561156497.jpg" group-title="AMBIENT Radio - radio.pervii.com", Ambient Modern - 128 kbit/s
 http://radio.stereoscenic.com/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1561156497.jpg" group-title="AMBIENT Radio - radio.pervii.com", FM93 - 128 kbit/s
+http://210.56.24.230:8004
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1561691364.jpg" group-title="AMBIENT Radio - radio.pervii.com", Deep Motion FM - MotionFM.com - 128 kbit/s
 https://vm.motionfm.com/motionthree_aacp?=3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1550768952.jpg" group-title="AMBIENT Radio - radio.pervii.com", Skylab Radio - 128 kbit/s
-http://198.245.60.88:8128/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1552392752.jpg" group-title="AMBIENT Radio - radio.pervii.com", Groove Salad: a nicely chilled plate of ambient beats and grooves. [SomaFM] - 256 kbit/s
 http://ice3.somafm.com/groovesalad-256-mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1570410593.jpg" group-title="AMBIENT Radio - radio.pervii.com", Radio Horyzont - Leniwe non stop ! - 128 kbit/s
 http://s1.slotex.pl:7328/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403581412.png" group-title="AMBIENT Radio - radio.pervii.com", RCP-VAR C2 - 128 kbit/s
 http://rcp-var.com:8558
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403581412.png" group-title="AMBIENT Radio - radio.pervii.com", WCSB 89.3 FM - 128 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1550768952.jpg" group-title="AMBIENT Radio - radio.pervii.com", Skylab Radio - 128 kbit/s
+http://198.245.60.88:8128/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1550768952.jpg" group-title="AMBIENT Radio - radio.pervii.com", WCSB 89.3 FM - 128 kbit/s
 http://40.71.172.49:8367/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1560865330.jpg" group-title="AMBIENT Radio - radio.pervii.com", MGT Love Hits - 128 kbit/s
 https://cast.mgtradio.net/radio/8010/mp3

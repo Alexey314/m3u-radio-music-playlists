@@ -54,10 +54,10 @@ http://s3.viastreaming.net:8525/stream/1/
 http://listen.radiopassazh.ru:8005/mp3-128
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1554043985.jpg" group-title="DANCE Radio - radio.pervii.com", Dance Wave Retro! - 128 kbit/s
 http://stream.dancewave.online:8080/retrodance.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1550164036.jpg" group-title="DANCE Radio - radio.pervii.com", pure fm - berlins electronic radio - 128 kbit/s
-http://s1.radionetz.de:8000/purefm-bln.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1561118831.jpg" group-title="DANCE Radio - radio.pervii.com", : SONICA CLUB : - 128 kbit/s
 http://s3.sonicabroadcast.com:8032
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1550164036.jpg" group-title="DANCE Radio - radio.pervii.com", pure fm - berlins electronic radio - 128 kbit/s
+http://s1.radionetz.de:8000/purefm-bln.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403562291.png" group-title="DANCE Radio - radio.pervii.com", ..:: RADiO LuDNiCA :: Original Croatian Internet Radio :: mjuza.net ::.. - 128 kbit/s
 http://192.111.140.6:8222/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1537528414.jpg" group-title="DANCE Radio - radio.pervii.com", [RMF DANCE] - 128 kbit/s
@@ -130,10 +130,10 @@ http://stream.radiometro.ru:8230/
 http://5.39.42.58:1989/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403626668.png" group-title="DANCE Radio - radio.pervii.com", 80s  Super Dance floor - 192 kbit/s
 http://5.135.154.66:33604/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="DANCE Radio - radio.pervii.com", Goanight - 128 kbit/s
-http://stream.laut.fm/goanight
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/10990.jpg" group-title="DANCE Radio - radio.pervii.com", FUN Radio Dance - 128 kbit/s
 http://stream.funradio.sk:8000/dance128.mp3
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="DANCE Radio - radio.pervii.com", Goanight - 128 kbit/s
+http://stream.laut.fm/goanight
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1571841817.jpg" group-title="DANCE Radio - radio.pervii.com", Radio Romanian Dance - 128 kbit/s
 http://asculta.radioromanian.net:8100/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1457892621.jpg" group-title="DANCE Radio - radio.pervii.com", Music Factory | Athens | Greece - 128 kbit/s

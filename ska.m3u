@@ -18,12 +18,12 @@ http://stream.punkrockers-radio.de:8000/mp3
 http://91.121.205.70:4062/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1561905340.jpg" group-title="SKA Radio - radio.pervii.com", HRVATSKI RADIO VALPOVSTINA - 128 kbit/s
 http://144.76.172.23:7092
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="SKA Radio - radio.pervii.com", plastikmekka - 128 kbit/s
-http://stream.laut.fm/plastikmekka
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="SKA Radio - radio.pervii.com", RADIO ZLATAR - 56 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1561905340.jpg" group-title="SKA Radio - radio.pervii.com", RADIO ZLATAR - 56 kbit/s
 http://144.76.172.23:7059
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1550247106.jpg" group-title="SKA Radio - radio.pervii.com", Radio Koliba - Vlaski Radio - 128 kbit/s
 http://radiokoliba.com:19334/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="SKA Radio - radio.pervii.com", plastikmekka - 128 kbit/s
+http://stream.laut.fm/plastikmekka
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1561626019.jpg" group-title="SKA Radio - radio.pervii.com", Radio Karolinka - 128 kbit/s
 http://91.232.4.33:8358/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1561626019.jpg" group-title="SKA Radio - radio.pervii.com", Whatever68 Worldwide Radio Streaming 24/7 - 128 kbit/s

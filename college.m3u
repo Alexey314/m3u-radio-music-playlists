@@ -106,15 +106,7 @@ http://192.100.163.140:8000
 http://130.64.29.252:80/stream/2/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1826.jpg" group-title="COLLEGE Radio - radio.pervii.com", no name - 128 kbit/s
 http://streams.wcdbfm.com:8000/stream
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/110359.jpg" group-title="COLLEGE Radio - radio.pervii.com", LibreTime! - 128 kbit/s
-http://198.188.255.100:8000
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/110359.jpg" group-title="COLLEGE Radio - radio.pervii.com", Radio CUH - 128 kbit/s
-http://64.202.98.52:7190
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/77965.jpg" group-title="COLLEGE Radio - radio.pervii.com", WGMU Radio - 128 kbit/s
-http://129.174.35.211:8000/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1550548955.jpg" group-title="COLLEGE Radio - radio.pervii.com", WVFS Tallahassee - 160 kbit/s
-http://voice.wvfs.fsu.edu:8000/stream
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1550548955.jpg" group-title="COLLEGE Radio - radio.pervii.com", LCCC Boom Radio - 32 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1826.jpg" group-title="COLLEGE Radio - radio.pervii.com", LCCC Boom Radio - 32 kbit/s
 http://68.168.103.13:8222
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1552392752.jpg" group-title="COLLEGE Radio - radio.pervii.com", Indie Pop Rocks! [SomaFM] - 32 kbit/s
 http://ice3.somafm.com/indiepop-64-aac
@@ -122,20 +114,14 @@ http://ice3.somafm.com/indiepop-64-aac
 http://163.182.175.106:8988/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1572759096.jpg" group-title="COLLEGE Radio - radio.pervii.com", Ignite Radio Now - 96 kbit/s
 http://142.222.6.62:8000/stream/2/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/79938.jpg" group-title="COLLEGE Radio - radio.pervii.com", Kbeach - 128 kbit/s
-mms://134.139.144.25:8080
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/79938.jpg" group-title="COLLEGE Radio - radio.pervii.com", BRTK - 128 kbit/s
-mms://bms.brtk.net/bayrakfm
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/79975.jpg" group-title="COLLEGE Radio - radio.pervii.com", KKSM - 32 kbit/s
-mms://venus.palomar.edu/kksm
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/79975.jpg" group-title="COLLEGE Radio - radio.pervii.com", KFHS - 128 kbit/s
-http://kfhs.out.airtime.pro:8000/kfhs_a
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/82725.jpg" group-title="COLLEGE Radio - radio.pervii.com", WMUL - 48 kbit/s
-mms://windowsmedia.marshall.edu/wmulfm/zz_listenlivelink/opener1.wma
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1573390485.jpg" group-title="COLLEGE Radio - radio.pervii.com", Jacksonville State University - 32 kbit/s
-mms://wmedia.jsu.edu:1999
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403745895.png" group-title="COLLEGE Radio - radio.pervii.com", Gaylord College of Journalism & Mass Communication - 128 kbit/s
-mms://a1453.l987359452.c9873.g.lm.akamaistream.net/D/1453/9873/v0001/reflector:59452
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1550548955.jpg" group-title="COLLEGE Radio - radio.pervii.com", WVFS Tallahassee - 160 kbit/s
+http://voice.wvfs.fsu.edu:8000/stream
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/110359.jpg" group-title="COLLEGE Radio - radio.pervii.com", LibreTime! - 160 kbit/s
+http://198.188.255.100:8000
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/110359.jpg" group-title="COLLEGE Radio - radio.pervii.com", Radio CUH - 128 kbit/s
+http://64.202.98.52:7190
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/77965.jpg" group-title="COLLEGE Radio - radio.pervii.com", WGMU Radio - 128 kbit/s
+http://129.174.35.211:8000/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/90518.jpg" group-title="COLLEGE Radio - radio.pervii.com", Wheaton College - 64 kbit/s
 mms://adam2.wheaton.edu/live
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/90518.jpg" group-title="COLLEGE Radio - radio.pervii.com", Southwestern College - 64 kbit/s
@@ -150,3 +136,17 @@ http://62.93.43.58:8000
 mms://72.237.94.75:23541
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/79293.jpg" group-title="COLLEGE Radio - radio.pervii.com", WEAA Morgan State University NPR 89.9 FM - 128 kbit/s
 mms://streamer.morgan.edu/wmtencoder/weaa
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/79938.jpg" group-title="COLLEGE Radio - radio.pervii.com", Kbeach - 128 kbit/s
+mms://134.139.144.25:8080
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/79938.jpg" group-title="COLLEGE Radio - radio.pervii.com", BRTK - 128 kbit/s
+mms://bms.brtk.net/bayrakfm
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/79975.jpg" group-title="COLLEGE Radio - radio.pervii.com", KKSM - 32 kbit/s
+mms://venus.palomar.edu/kksm
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/79975.jpg" group-title="COLLEGE Radio - radio.pervii.com", KFHS - 128 kbit/s
+http://kfhs.out.airtime.pro:8000/kfhs_a
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1573390485.jpg" group-title="COLLEGE Radio - radio.pervii.com", Jacksonville State University - 32 kbit/s
+mms://wmedia.jsu.edu:1999
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/82725.jpg" group-title="COLLEGE Radio - radio.pervii.com", WMUL - 48 kbit/s
+mms://windowsmedia.marshall.edu/wmulfm/zz_listenlivelink/opener1.wma
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403745895.png" group-title="COLLEGE Radio - radio.pervii.com", Gaylord College of Journalism & Mass Communication - 128 kbit/s
+mms://a1453.l987359452.c9873.g.lm.akamaistream.net/D/1453/9873/v0001/reflector:59452

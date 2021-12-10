@@ -156,10 +156,10 @@ http://209.9.238.4:9844
 http://dreamsiteradiocp.com:8082/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1550976509.jpg" group-title="TALK Radio - radio.pervii.com", Euro Folk Radio - 128 kbit/s
 http://stream.eurofolkradio.com:8000/mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1572314874.jpg" group-title="TALK Radio - radio.pervii.com", WNPR-FM - 64 kbit/s
-https://playerservices.streamtheworld.com/api/livestream-redirect/WNPRFM.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1537612129.jpg" group-title="TALK Radio - radio.pervii.com", KTOX 1340AM - 64 kbit/s
 http://streaming.rubinbroadcasting.com:80/ktox
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1572314874.jpg" group-title="TALK Radio - radio.pervii.com", WNPR-FM - 64 kbit/s
+https://playerservices.streamtheworld.com/api/livestream-redirect/WNPRFM.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1550465739.jpg" group-title="TALK Radio - radio.pervii.com", Global Star 3 - 64 kbit/s
 http://mediaarchives.gsradio.net:2146/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1549685764.jpg" group-title="TALK Radio - radio.pervii.com", Strange Radio - Science Fiction &amp; Horror - Old Time Radio  (Pumpkin FM OTRN) - 128 kbit/s
@@ -168,14 +168,14 @@ http://149.255.59.164:8067/stream/1/
 http://s6.voscast.com:8016/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1578139953.jpg" group-title="TALK Radio - radio.pervii.com", TWiT.am - 32 kbit/s
 http://twit.am:80/listen
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1537446859.jpg" group-title="TALK Radio - radio.pervii.com", RTBF - VivaCité Namur/Brabant Wallon - 32 kbit/s
+http://212.3.234.219:8080/stream/94/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1593431420.jpg" group-title="TALK Radio - radio.pervii.com", RADIO MARIA USA - ITALIAN - 32 kbit/s
 http://dreamsiteradiocp2.com:8016
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="TALK Radio - radio.pervii.com", radio-metalkultur - 128 kbit/s
 http://stream.laut.fm/radio-metalkultur
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/72423.jpg" group-title="TALK Radio - radio.pervii.com", KUAZ 192 - 192 kbit/s
 http://streaming.azpm.org:80/kuaz192.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1537446859.jpg" group-title="TALK Radio - radio.pervii.com", RTBF - VivaCité Namur/Brabant Wallon - 192 kbit/s
-http://212.3.234.219:8080/stream/94/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/78625.jpg" group-title="TALK Radio - radio.pervii.com", WKSU - 128 kbit/s
 http://wksu1.streamguys.com:8010
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1553342015.jpg" group-title="TALK Radio - radio.pervii.com", AM 680 WOGO - 32 kbit/s

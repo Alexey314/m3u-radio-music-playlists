@@ -22,12 +22,12 @@ http://s2.stationplaylist.com:9462/stream/1/
 http://orion.shoutca.st:8165/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1553670714.jpg" group-title="HARDROCK Radio - radio.pervii.com", Hand of Doom Radio - 128 kbit/s
 http://158.69.114.190:8042/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1537694872.jpg" group-title="HARDROCK Radio - radio.pervii.com", rockXradio : Canada&apos;s Internet Radio Station - 128 kbit/s
+http://158.69.227.214:8000/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1561182631.jpg" group-title="HARDROCK Radio - radio.pervii.com", delta radio - Hardrock & Heavy Metal - 192 kbit/s
 http://regiocast.hoerradar.de/deltaradio-foehnfrisur-mp3-hq
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1550746950.jpg" group-title="HARDROCK Radio - radio.pervii.com", BeRock Radio - 192 kbit/s
 http://solid55.streamupsolutions.com:30013/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1537694872.jpg" group-title="HARDROCK Radio - radio.pervii.com", rockXradio : Canada&apos;s Internet Radio Station - 128 kbit/s
-http://158.69.227.214:8000/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1555076560.jpg" group-title="HARDROCK Radio - radio.pervii.com", Uturn Radio: Classic Rock Music - 128 kbit/s
 http://listen-us.uturnradio.com:80/classic_rock
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1577163050.jpg" group-title="HARDROCK Radio - radio.pervii.com", KSHP-DB - 128 kbit/s
@@ -38,10 +38,10 @@ http://68.168.101.146:8423/autodj?=1
 http://74.208.105.119:8018
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403826189.png" group-title="HARDROCK Radio - radio.pervii.com", RockNet Radio - 192 kbit/s
 http://94.23.23.97:31836/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1586962131.jpg" group-title="HARDROCK Radio - radio.pervii.com", Rockaway Radio - 320 kbit/s
-http://192.99.170.8:5096/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/26577.jpg" group-title="HARDROCK Radio - radio.pervii.com", ARfm Radio - 128 kbit/s
 http://108.163.245.230:9016/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1586962131.jpg" group-title="HARDROCK Radio - radio.pervii.com", Rockaway Radio - 320 kbit/s
+http://192.99.170.8:5096/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1555259719.jpg" group-title="HARDROCK Radio - radio.pervii.com", Hollis Rock and Blues Corner - 128 kbit/s
 http://rs13.stream24.org:9260/stream
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1550479885.jpg" group-title="HARDROCK Radio - radio.pervii.com", Radio Kolobrzeg - 192 kbit/s
@@ -52,12 +52,12 @@ http://listen.radionomy.com/100-HARD-ROCK
 http://stream.laut.fm/qosmos
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="HARDROCK Radio - radio.pervii.com", ClassicRock&amp;HardRock - 128 kbit/s
 http://listen.radionomy.com:80/ClassicRock-HardRock
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="HARDROCK Radio - radio.pervii.com", Rock Velvet - 192 kbit/s
-http://cast.iplayradio.net:8060/autodj
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403731879.png" group-title="HARDROCK Radio - radio.pervii.com", One Play Radio - 192 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403731879.png" group-title="HARDROCK Radio - radio.pervii.com", One Play Radio - 128 kbit/s
 http://5.9.65.9:8134/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403731879.png" group-title="HARDROCK Radio - radio.pervii.com", La Rosa Negra Radio Mp3 - 96 kbit/s
 http://192.111.140.6:8084/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403731879.png" group-title="HARDROCK Radio - radio.pervii.com", Rock Velvet - 192 kbit/s
+http://cast.iplayradio.net:8060/autodj
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1561462518.jpg" group-title="HARDROCK Radio - radio.pervii.com", .: The Taint :. - 128 kbit/s
 http://s1.nexuscast.com:8163
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/5553.jpg" group-title="HARDROCK Radio - radio.pervii.com", RADIO.IPIP.CZ: Rebel Radio Brod - 192 kbit/s

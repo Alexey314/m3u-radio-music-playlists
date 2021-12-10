@@ -96,6 +96,8 @@ http://162.244.80.106:8024/stream/1/
 http://145.239.91.167:8010/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1551053751.jpg" group-title="HOUSE Radio - radio.pervii.com", Audioboxlive DJ Radio - 128 kbit/s
 http://149.56.175.167:5068/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1561691364.jpg" group-title="HOUSE Radio - radio.pervii.com", Deep Motion FM - MotionFM.com - 128 kbit/s
+https://vm.motionfm.com/motionone_aacp?=2
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1550733529.jpg" group-title="HOUSE Radio - radio.pervii.com", DjEef&amp;#039;s Records Stream - 160 kbit/s
 http://hyades.shoutca.st:8400/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403699892.png" group-title="HOUSE Radio - radio.pervii.com", ClubMix Radio Romania [128kbps] - 128 kbit/s
@@ -104,8 +106,6 @@ http://live.radioclubmix.ro:9999/stream/1/
 http://192.187.112.50:8091
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1550971882.jpg" group-title="HOUSE Radio - radio.pervii.com", NYC House Radio - 128 kbit/s
 http://204.141.167.19:8400/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1561691364.jpg" group-title="HOUSE Radio - radio.pervii.com", Deep Motion FM - MotionFM.com - 128 kbit/s
-https://vm.motionfm.com/motionone_aacp?=2
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/72722.jpg" group-title="HOUSE Radio - radio.pervii.com", DJFM Toronto - The Dance Music Powerhouse - 128 kbit/s
 http://mux.mtl.djfmradio.com/djfm3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1563707939.jpg" group-title="HOUSE Radio - radio.pervii.com", Hotmixradio Dance - 128 kbit/s
@@ -144,6 +144,8 @@ http://158.69.4.171:8255/autodj
 http://stream.diazol.hu:31020/retro.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1593394559.jpg" group-title="HOUSE Radio - radio.pervii.com", ABC Dance - 192 kbit/s
 https://listen.radioking.com/radio/324967/stream/374263?=1
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1593394559.jpg" group-title="HOUSE Radio - radio.pervii.com", Radio Dancefloor - 90&#039;s - 96 kbit/s
+http://streaming.radiodancefloor.it:80/dancefloor.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1593394559.jpg" group-title="HOUSE Radio - radio.pervii.com", HardHouseUK (Hard House UK) - 128 kbit/s
 http://streams.netmindz.net:80/hhuk.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/23004.jpg" group-title="HOUSE Radio - radio.pervii.com", 54HOUSE.FM - 192 kbit/s
@@ -154,8 +156,8 @@ http://listen.011fm.com:80/stream16
 http://16bitfm.com:8000/main_mp3_192
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/82839.jpg" group-title="HOUSE Radio - radio.pervii.com", ..::: RADIO FIBRA ROMANIA...HIT CLUBBING STATION :::.. - 128 kbit/s
 http://188.165.152.44:9000
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/82839.jpg" group-title="HOUSE Radio - radio.pervii.com", Radio Dancefloor - 90&#039;s - 96 kbit/s
-http://streaming.radiodancefloor.it:80/dancefloor.mp3
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1561645406.jpg" group-title="HOUSE Radio - radio.pervii.com", Z103.5 We Are Your Party Station - 128 kbit/s
+http://166.62.44.23:8006/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1553670714.jpg" group-title="HOUSE Radio - radio.pervii.com", DI Radio Digital Impulse - House - 320 kbit/s
 http://orion.shoutca.st:8986/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1552392752.jpg" group-title="HOUSE Radio - radio.pervii.com", Beat Blender: A late night blend of deep-house &amp; downtempo chill. [SomaFM] - 128 kbit/s
@@ -166,8 +168,6 @@ http://149.202.22.75:8134/stream/1/
 http://46.28.49.164:7650
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1550164036.jpg" group-title="HOUSE Radio - radio.pervii.com", pure fm - bayerns electronic radio - 128 kbit/s
 http://s1.radionetz.de:8000/purefm-by.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1561645406.jpg" group-title="HOUSE Radio - radio.pervii.com", Z103.5 We Are Your Party Station - 128 kbit/s
-http://166.62.44.23:8006/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403849754.png" group-title="HOUSE Radio - radio.pervii.com", Mio Radio - Its Your Radio! - 192 kbit/s
 http://94.23.23.97:13662/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1553173638.jpg" group-title="HOUSE Radio - radio.pervii.com", Deeplounge - 128 kbit/s

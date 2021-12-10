@@ -84,52 +84,52 @@ http://streams.greenhost.nl:8080/barok
 http://icecast.omroep.nl/radio4-sb-mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1556679851.jpg" group-title="CLASSICAL Radio - radio.pervii.com", WKAR Classical - 128 kbit/s
 http://mozart.wkar.msu.edu:80/wkar-classical
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1537586976.jpg" group-title="CLASSICAL Radio - radio.pervii.com", RadioBolivarianaVirtual FM - 48 kbit/s
-http://131.0.136.54:7630/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403700619.png" group-title="CLASSICAL Radio - radio.pervii.com", Hi On Line Classic Radio - 320 kbit/s
 http://mediaserv30.live-streams.nl:8088/live
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1537586976.jpg" group-title="CLASSICAL Radio - radio.pervii.com", RadioBolivarianaVirtual FM - 48 kbit/s
+http://131.0.136.54:7630/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549710295.jpg" group-title="CLASSICAL Radio - radio.pervii.com", CALM RADIO - CLASSICAL CHRISTMAS - Sampler - 128 kbit/s
 http://23.82.11.88:18828/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1578197770.jpg" group-title="CLASSICAL Radio - radio.pervii.com", Klassik Radio - Live - 128 kbit/s
 http://stream.klassikradio.de/legenden/mp3-128
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549710295.jpg" group-title="CLASSICAL Radio - radio.pervii.com", CALM RADIO - GREGORIAN - Sampler - 128 kbit/s
 http://23.82.11.88:4428/stream
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1552224195.jpg" group-title="CLASSICAL Radio - radio.pervii.com", GotRadio - Piano Perfect - 128 kbit/s
-http://gr02.cdnstream.com:8050
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/123126.jpg" group-title="CLASSICAL Radio - radio.pervii.com", Yabiladi Radio - 100% Maroc - 128 kbit/s
 http://37.187.146.76:8000/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1552224195.jpg" group-title="CLASSICAL Radio - radio.pervii.com", GotRadio - Piano Perfect - 128 kbit/s
+http://gr02.cdnstream.com:8050
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1579355026.jpg" group-title="CLASSICAL Radio - radio.pervii.com", WGUC - 320 kbit/s
 http://stream.cinradio.org/noads-wguc
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1550196284.jpg" group-title="CLASSICAL Radio - radio.pervii.com", RADIO CIMA 100.5 FM - 24 kbit/s
-http://audio.domiradio.com:9212
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1562992675.jpg" group-title="CLASSICAL Radio - radio.pervii.com", University Of Oregon - KWAX - 96 kbit/s
 http://75.150.43.46:8000/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1550196284.jpg" group-title="CLASSICAL Radio - radio.pervii.com", RADIO CIMA 100.5 FM - 24 kbit/s
+http://audio.domiradio.com:9212
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1550201809.jpg" group-title="CLASSICAL Radio - radio.pervii.com", Classical 88.1 WDPR - 128 kbit/s
 http://live.str3am.com:2520/live
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1550158986.jpg" group-title="CLASSICAL Radio - radio.pervii.com", American Tamil Radio - 128 kbit/s
 http://69.46.24.226:7188/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1553700995.jpg" group-title="CLASSICAL Radio - radio.pervii.com", Geen dag zonder Bach - 160 kbit/s
 http://streams.greenhost.nl:8080/bach
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403831359.png" group-title="CLASSICAL Radio - radio.pervii.com", SinghStation Radio 24x7 - 24 kbit/s
-http://198.178.123.5:8240/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1561733934.jpg" group-title="CLASSICAL Radio - radio.pervii.com", WFMT - 256 kbit/s
 http://stream.wfmt.com/main-source
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1550247047.jpg" group-title="CLASSICAL Radio - radio.pervii.com", Decennial Gothica Radio - 128 kbit/s
-http://23.29.71.154:8226/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403831359.png" group-title="CLASSICAL Radio - radio.pervii.com", SinghStation Radio 24x7 - 24 kbit/s
+http://198.178.123.5:8240/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1549787277.jpg" group-title="CLASSICAL Radio - radio.pervii.com", Accent4 (mp3) - 128 kbit/s
 http://str0.creacast.com/accent4
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549710295.jpg" group-title="CLASSICAL Radio - radio.pervii.com", CALM RADIO - CELLO - Sampler - 128 kbit/s
 http://23.82.11.88:4628/stream
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1550247047.jpg" group-title="CLASSICAL Radio - radio.pervii.com", Decennial Gothica Radio - 128 kbit/s
+http://23.29.71.154:8226/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403371471.png" group-title="CLASSICAL Radio - radio.pervii.com", VPR Classical from Vermont Public Radio - 128 kbit/s
 http://vprclassical.streamguys.net/vprclassical128.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549710295.jpg" group-title="CLASSICAL Radio - radio.pervii.com", CALM RADIO - HARPSICHORD - Sampler - 128 kbit/s
 http://23.82.11.88:12628/stream
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549710295.jpg" group-title="CLASSICAL Radio - radio.pervii.com", ABCSymphony - 128 kbit/s
 http://listen.radionomy.com/ABC-Symphony
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549710295.jpg" group-title="CLASSICAL Radio - radio.pervii.com", 1000HITSClassicalMusic - 128 kbit/s
+http://listen.radionomy.com:80/1000HITSClassicalMusic
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1561180884.jpg" group-title="CLASSICAL Radio - radio.pervii.com", Fine Music Sydney - 128 kbit/s
 http://fmfm.org.au:8000/finemusicdigital
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1561180884.jpg" group-title="CLASSICAL Radio - radio.pervii.com", 1000HITSClassicalMusic - 128 kbit/s
-http://listen.radionomy.com:80/1000HITSClassicalMusic
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/11783.jpg" group-title="CLASSICAL Radio - radio.pervii.com", KUAT 192 - 192 kbit/s
 http://streaming.azpm.org/kuat192.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549710295.jpg" group-title="CLASSICAL Radio - radio.pervii.com", CALMRADIO.COM - Classical Guitar - 128 kbit/s
@@ -156,32 +156,32 @@ http://23.82.11.88:4628/stream/1/
 http://icecast.vrtcdn.be/klara.aac
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1550163373.jpg" group-title="CLASSICAL Radio - radio.pervii.com", Rondo Classic KlasuPro-hi - 320 kbit/s
 http://rondo.iradio.fi:8000/klasupro-hi.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1572056814.jpg" group-title="CLASSICAL Radio - radio.pervii.com", CEU Medieval Radio - Past perfect! - 128 kbit/s
-http://stream3.virtualisan.net:7020
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1553670714.jpg" group-title="CLASSICAL Radio - radio.pervii.com", DI Radio Digital Impulse - Classical - 320 kbit/s
 http://orion.shoutca.st:8978/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549710295.jpg" group-title="CLASSICAL Radio - radio.pervii.com", CALMRADIO.COM - Beethoven - 128 kbit/s
 http://23.82.11.88:6928/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1572056814.jpg" group-title="CLASSICAL Radio - radio.pervii.com", CEU Medieval Radio - Past perfect! - 128 kbit/s
+http://stream3.virtualisan.net:7020
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1572056814.jpg" group-title="CLASSICAL Radio - radio.pervii.com", Classical For Studying - 128 kbit/s
+http://51.68.215.9:8000/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1586873729.jpg" group-title="CLASSICAL Radio - radio.pervii.com", Beethoven Channel - 320 kbit/s
 http://212.83.149.66:8297/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1586873729.jpg" group-title="CLASSICAL Radio - radio.pervii.com", Classical For Studying - 128 kbit/s
-http://51.68.215.9:8000/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549710295.jpg" group-title="CLASSICAL Radio - radio.pervii.com", CALMRADIO.COM - Opera - 128 kbit/s
 http://23.82.11.88:1128/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1552792182.jpg" group-title="CLASSICAL Radio - radio.pervii.com", 011.FM - Pure Piano - 192 kbit/s
 http://listen.011fm.com:80/stream22
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549710295.jpg" group-title="CLASSICAL Radio - radio.pervii.com", CALMRADIO.COM - Harp - 128 kbit/s
 http://23.82.11.88:4328/stream
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549710295.jpg" group-title="CLASSICAL Radio - radio.pervii.com", N/A - 32 kbit/s
-http://Radyo.SohbetBurada.Com:9998
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549710295.jpg" group-title="CLASSICAL Radio - radio.pervii.com", CALM RADIO - JOHANN STRAUSS II - Sampler - 128 kbit/s
 http://23.82.11.88:8328/stream2
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1551081168.jpg" group-title="CLASSICAL Radio - radio.pervii.com", Viva Classica! - 320 kbit/s
-http://rondo.iradio.fi:8000/viva-hi.mp3
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549710295.jpg" group-title="CLASSICAL Radio - radio.pervii.com", N/A - 32 kbit/s
+http://Radyo.SohbetBurada.Com:9998
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1537460974.jpg" group-title="CLASSICAL Radio - radio.pervii.com", NAXI CLASSIC RADIO (NAXI,Belgrade,Serbia, NAXI,Beograd,Srbija) - 128k - 128 kbit/s
 http://109.206.96.34:8030
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549710295.jpg" group-title="CLASSICAL Radio - radio.pervii.com", CALM RADIO - CLASSICAL MIX - Sampler - 128 kbit/s
 http://23.82.11.88:2828/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1551081168.jpg" group-title="CLASSICAL Radio - radio.pervii.com", Viva Classica! - 320 kbit/s
+http://rondo.iradio.fi:8000/viva-hi.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549710295.jpg" group-title="CLASSICAL Radio - radio.pervii.com", CALMRADIO.COM - Johann Strauss II - 128 kbit/s
 http://23.82.11.88:8328/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1572441832.jpg" group-title="CLASSICAL Radio - radio.pervii.com", Radio Mazika - 128 kbit/s

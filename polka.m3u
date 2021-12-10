@@ -14,10 +14,10 @@ http://clasicradio.ro:8100/stream/1/
 http://mp3.querfunk.de:8000/qfhi
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1553964473.jpg" group-title="POLKA Radio - radio.pervii.com", Polish New Castle Radio - 128 kbit/s
 http://192.211.51.158:5320/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1553964473.jpg" group-title="POLKA Radio - radio.pervii.com", FM SANTACATALINA - 128 kbit/s
+http://server1.veemesoft.com.ar:26965
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1561384996.jpg" group-title="POLKA Radio - radio.pervii.com", --== PrismaTeam.nl ==-- - 192 kbit/s
 http://server-09.stream-server.nl:8404/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1561384996.jpg" group-title="POLKA Radio - radio.pervii.com", FM SANTACATALINA - 192 kbit/s
-http://server1.veemesoft.com.ar:26965
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/18293.jpg" group-title="POLKA Radio - radio.pervii.com", kleine piraat internetradio www.kleinepiraat.nl altijd in de lucht - 128 kbit/s
 http://kleinepiraat.ic-stream.nl:7030
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1561196094.jpg" group-title="POLKA Radio - radio.pervii.com", Oude Piratenhits - 192 kbit/s
