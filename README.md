@@ -23,7 +23,7 @@ downloading from these m3u files is not possible as far as i know since they con
 ```
 ffmpeg -y -i http://stream.dancewave.online:8080/dance.mp3 -c copy dancewave.mp3
 ```
-change the filename at the end to what you like, i'm interested to know if it's possible to seperate these files by song title and doing some online searching about it but for the time being i'm ok with having a big file as it's better than nothing, as ffmpeg suggests when you feel happy with the length/size of this file press `q` in your terminal emulator to finish the process and save the file
+change the filename at the end to what you like, as ffmpeg suggests when you feel happy with the length/size of this file press `q` in your terminal emulator to finish the process and save the file
 
 because these are online streams there is no way to download the whole thing as they are constantly changing, but you can set a hard limit to when recording stops using the timeout command on bash/zsh shells
 ```
