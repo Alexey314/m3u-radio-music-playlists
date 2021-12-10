@@ -18,6 +18,13 @@ mpv https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/main/tr
 ```
 or add/change `m3u` file association in your os to mpv and double click on any of `.m3u` files in your file manager
 
+### how to download a stream to my computer?
+downloading from the m3u files is not possible as far as i know since they contain multiple streams, but if you want to download from a particular stream you can achieve this by using ffmpeg, i use the most popular (first stream) in the `trance.m3u` to showcase this, in your terminal change directory to where you want this file to be at (note that lines starting with # are not actual streams and are there for embedding extra info to your media player)
+```
+ffmpeg -y -i http://stream.dancewave.online:8080/dance.mp3 -c copy dancewave.mp3
+```
+change the filename at the end to what you like, i'm interested to know if it's possible to seperate these files by song title and doing some online searching about it but for the time being i'm ok with having a big file as it's better than nothing, as ffmpeg suggests when you feel happy with the length/size of this file press `q` in your terminal emulator to finish the process and save the file
+
 ### Mpv only shows a black window when listening to music, how to make it pretty?
 download the [visualizer](https://raw.githubusercontent.com/mfcc64/mpv-scripts/master/visualizer.lua) script for mpv and put it in your scripts folder either on `~/.config/mpv/scripts` on *nix systems 
 
