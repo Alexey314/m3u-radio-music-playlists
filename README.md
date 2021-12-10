@@ -19,6 +19,9 @@ mpv https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/main/tr
 or add/change `m3u` file association in your os to mpv and double click on any of `.m3u` files in your file manager
 
 ### how to download a live-stream to my computer?
+<details>
+  <summary>click me to read</summary>
+
 downloading from these m3u files is not possible as far as i know since they contain multiple streams, but if you want to download from a particular stream you can achieve this by using ffmpeg, i use the most popular (first stream) in the `trance.m3u` to showcase this, in your terminal change directory to where you want this file to be at (note that lines starting with # are not actual streams and are there for embedding extra info to your media player)
 ```
 ffmpeg -y -i http://stream.dancewave.online:8080/dance.mp3 -c copy dancewave.mp3
@@ -43,6 +46,8 @@ this will save a new mp3 file every minute, if you want to make this longer chan
 
 this command can also be stopped using `ctrl + c` shortcut or the timeout command showcased above so adding `timeout 1h` in front of the above command stops the whole process after an hour
 
+</details>
+  
 ### Mpv only shows a black window when listening to music, how to make it pretty?
 download the [visualizer](https://raw.githubusercontent.com/mfcc64/mpv-scripts/master/visualizer.lua) script for mpv and put it in your scripts folder either on `~/.config/mpv/scripts` on *nix systems 
 
@@ -76,10 +81,10 @@ from [this page](https://www.radio.pervii.com/en/online-playlists-m3u.htm)
 
 ### How do i push updates?
 if you just want to listen to music you won't need to keep reading but if you are interested to know how i do this then click below
+
 <details>
   <summary>click me to read</summary>
   
-
 at first this process was manuall but i finally got around to write a simple bash script to make this process fast and easy, i'll go over each step here one by one
 
 1st step: we need to get the links from the website [here](https://www.radio.pervii.com/en/online-playlists-m3u.htm) these files are automatically updated and sorted by popularity but the links themselves never change so after this one line command we don't need to repeat this frist step ever again and we can save these links to a text file for future downloads
