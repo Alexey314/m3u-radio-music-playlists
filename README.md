@@ -31,7 +31,7 @@ timeout 60 ffmpeg -y -i http://stream.dancewave.online:8080/dance.mp3 -c copy da
 ```
 the above command saves about one minute of the audio live-stream, you can specify longer times using `-m` for minutes `-h` for hours and `-d` for days, these can also be used with decimels for more control, so one and half minute can be set with 1.5m or 3 hour and 45 minutes can be set with 3.75h
 ```
-timeout 1.5m ffmpeg -y -i http://stream.dancewave.online:8080/dance.mp3 -c copy dancewave.mp3
+timeout 1h ffmpeg -y -i http://stream.dancewave.online:8080/dance.mp3 -c copy dancewave.mp3
 ```
 
 ### Mpv only shows a black window when listening to music, how to make it pretty?
