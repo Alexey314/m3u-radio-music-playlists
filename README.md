@@ -39,7 +39,7 @@ another more elegant way to do this is to use ffmpeg to segment these files with
 ```
 ffmpeg -i http://stream.dancewave.online:8080/dance.mp3 -c copy -f segment -strftime 1 -segment_time 60 %Y-%m-%d-%H-%M-%S.mp3
 ```
-this will save a new mp3 file every minute, if you want to make this longer change `-segment_time 60` and multiply the number of minutes you want for each file by 60, so if i want my mp3 files to each be 5 minutes i do `-segment_time 300` , this process goes on forever unless you run out of disk space or if you are not connected to the internet for some reason 
+this will save a new mp3 file every minute, if you want to make this longer change `-segment_time 60` and multiply the number of minutes you want for each file by 60, so if i want my mp3 files to each be 5 minutes i do `-segment_time 300`  this process goes on forever unless you run out of disk space or if you are not connected to the internet for some reason 
 
 this command can also be stopped using the timeout command showcased above so adding `timeout 1h` in front of the above command stops the whole process after an hour
 
