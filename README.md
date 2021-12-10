@@ -34,7 +34,7 @@ because these are online streams there is no way to download the whole thing as 
 ```
 timeout 60 ffmpeg -y -i http://stream.dancewave.online:8080/dance.mp3 -c copy dancewave.mp3
 ```
-the above command saves about one minute of the audio live-stream, you can specify longer times using `-m` for minutes `-h` for hours and `-d` for days, these can also be used with decimels for more control, so one and half minute can be set with 1.5m or 3 hour and 45 minutes can be set with 3.75h
+the above command saves about one minute of the audio live-stream, you can specify longer times using `-m` for minutes `-h` for hours and `-d` for days, these can also be used with decimals for more control, so one and half minute can be set with 1.5m or 3 hour and 45 minutes can be set with 3.75h
 ```
 timeout 1h ffmpeg -y -i http://stream.dancewave.online:8080/dance.mp3 -c copy dancewave.mp3
 ```
@@ -89,9 +89,9 @@ if you just want to listen to music you won't need to keep reading but if you ar
   
 <br>
   
-at first this process was manuall but i finally got around to write a simple bash script to make this process fast and easy, i'll go over each step here one by one
+at first this process was manual but i finally got around to write a simple bash script to make this process fast and easy, i'll go over each step here one by one
 
-1st step: we need to get the links from the website [here](https://www.radio.pervii.com/en/online-playlists-m3u.htm) these files are automatically updated and sorted by popularity but the links themselves never change so after this one line command we don't need to repeat this frist step ever again and we can save these links to a text file for future downloads
+1st step: we need to get the links from the website [here](https://www.radio.pervii.com/en/online-playlists-m3u.htm) these files are automatically updated and sorted by popularity but the links themselves never change so after this one line command we don't need to repeat this first step ever again and we can save these links to a text file for future downloads
 ```
 lynx --dump --listonly --nonumbers https://www.radio.pervii.com/en/online-playlists-m3u.htm | grep ".m3u" | grep "top_radio" > list.txt
 ```
@@ -99,9 +99,9 @@ now for the explanation of what we did:
 
 lynx is a terminal web browser that doesn't load any kind of media and only shows links, text and stylings, we use it's `--dump` flag to save all the text and links from the website
 
-grep is a powerful program that takes strings of characters and grep them to assist us in finding the stuff we need we used a pipe `|` to take the information lynx gave us and send it to grep, we first look for every `.m3u` file in the page and then further filter these links by `top_radio` in the next grep command to only get the file links we need, finnaly use `>` to write all of these information to the `list.txt` in the current directory we are in
+grep is a powerful program that takes strings of characters and grep them to assist us in finding the stuff we need we used a pipe `|` to take the information lynx gave us and send it to grep, we first look for every `.m3u` file in the page and then further filter these links by `top_radio` in the next grep command to only get the file links we need, finlay use `>` to write all of these information to the `list.txt` in the current directory we are in
 
-2nd step: we use aria2 to download these files to our preffered directory in our case `~/Music/bare_m3u/`
+2nd step: we use aria2 to download these files to our preferred directory in our case `~/Music/bare_m3u/`
 ```
 /usr/bin/aria2c -x 16 -j 4 -i ~/Music/list.txt -d ~/Music/bare_m3u/
 ```
@@ -114,20 +114,20 @@ the flags we used with aria2 is as follows: `-x 16` tells aria2 to use 16 connec
 for f in ~/Music/bare_m3u/*.m3u ; do mv "$f" "$(echo "$f" | sed -e 's/top_radio_//g')"; done
 ```
 
-4rd step: make the ---everyhting.m3u out of our downloaded m3u files
+4rd step: make the ---everything.m3u out of our downloaded m3u files
 ```
-cat $( ls ~/Music/bare_m3u/*.m3u -v ) | sed -n '/^#/!p' | awk '!seen[$0]++' > ~/Music/bare_m3u/---everyhting.m3u
+cat $( ls ~/Music/bare_m3u/*.m3u -v ) | sed -n '/^#/!p' | awk '!seen[$0]++' > ~/Music/bare_m3u/---everything.m3u
 ```
-because `cat` doesn't list alphabetically we use `ls` in tandom with it, use `sed` to remove every line that starts with `#` to make the final file smaller and write everything to the final m3u stream and `awk` here remove duplicate lines
+because `cat` doesn't list alphabetically we use `ls` in tandem with it, use `sed` to remove every line that starts with `#` to make the final file smaller and write everything to the final m3u stream and `awk` here remove duplicate lines
 
-5rd step: make the ---randomized.m3u and ---sorted.m3u stream by shuffeling the contents of ---everyhting.m3u
+5rd step: make the ---randomized.m3u and ---sorted.m3u stream by shuffling the contents of ---everything.m3u
 ```
-cat ~/Music/bare_m3u/---everyhting.m3u | shuf > ~/Music/bare_m3u/---randomized.m3u
+cat ~/Music/bare_m3u/---everything.m3u | shuf > ~/Music/bare_m3u/---randomized.m3u
 ```
-`shuf` does the shuffeling for us
+`shuf` does the shuffling for us
 
 ```
-cat ~/Music/bare_m3u/---everyhting.m3u | sort | awk 'length>10' > ~/Music/bare_m3u/---sorted.m3u
+cat ~/Music/bare_m3u/---everything.m3u | sort | awk 'length>10' > ~/Music/bare_m3u/---sorted.m3u
 ```
 `sort` sorts the links for us and we use `awk` to remove the few broken links that are less than 10 characters 
   
@@ -156,9 +156,9 @@ now for the complete script, save it to a file and give it `.sh` extension and r
 
 /usr/bin/aria2c -x 16 -j 4 -i ~/Music/list.txt -d ~/Music/bare_m3u/
 for f in ~/Music/bare_m3u/*.m3u ; do mv "$f" "$(echo "$f" | sed -e 's/top_radio_//g')"; done
-cat $( ls ~/Music/bare_m3u/*.m3u -v ) | sed -n '/^#/!p' | awk '!seen[$0]++' > ~/Music/bare_m3u/---everyhting.m3u
-cat ~/Music/bare_m3u/---everyhting.m3u | shuf > ~/Music/bare_m3u/---randomized.m3u
-cat ~/Music/bare_m3u/---everyhting.m3u | sort | awk 'length>10' > ~/Music/bare_m3u/---sorted.m3u
+cat $( ls ~/Music/bare_m3u/*.m3u -v ) | sed -n '/^#/!p' | awk '!seen[$0]++' > ~/Music/bare_m3u/---everything.m3u
+cat ~/Music/bare_m3u/---everything.m3u | shuf > ~/Music/bare_m3u/---randomized.m3u
+cat ~/Music/bare_m3u/---everything.m3u | sort | awk 'length>10' > ~/Music/bare_m3u/---sorted.m3u
 mv ~/Music/bare_m3u/*.m3u ~/Music/m3u-radio-music-playlists
 git -C ~/Music/m3u-radio-music-playlists add .
 git -C ~/Music/m3u-radio-music-playlists commit -m "updating"
