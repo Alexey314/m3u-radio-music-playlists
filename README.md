@@ -58,7 +58,7 @@ or `C:\users\USERNAME\AppData\Roaming\mpv\scripts\` on windows
 put these in your mpv.conf, this is a auto-profile for all audio files
 ```
 [audio-only]
-profile-cond=(get('estimated-frame-count',math.huge)<2)
+profile-cond=not vid
 profile-restore=copy
 vf-add=rgbashift=rh=-4:bv=+4
 vf-add=drawbox=w=iw:h=ih:color=00FFFF@0.5
