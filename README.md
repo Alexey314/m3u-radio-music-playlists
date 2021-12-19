@@ -1,15 +1,17 @@
 ## Collection of m3u Radio Playlists, Updated daily (manually)
-this repo now includes a `radio.m3u` station with various streams collected over time by many people, thanks to [ArnoldSchiller](https://github.com/ArnoldSchiller) for his pull request, this stream is not part of my usual stream updates and won't get updated as often but it's contents are getting included in my 3 own made streams listed below
+this repo now includes a `radio.m3u` station with various streams collected over time by many people, thanks to [ArnoldSchiller](https://github.com/ArnoldSchiller) for his pull request, this stream is not part of my usual stream updates and won't get updated as often but it's contents are getting included in my 4 own made streams listed below
 
-this repo now includes 3 extra streams made by me, `---everything.m3u` , `---randomized.m3u` and `---sorted.m3u`
+this repo now includes 4 extra streams made by me
 
-`---everything.m3u` combines all of the streams sorted by name
+`---everything-full.m3u` combines all of the streams sorted by names that are shown in this repo
 
-`---randomized.m3u` is exactly like the everything stream but every line was shuffled and randomized
+`---everything-lite.m3u` is exactly like the everything-full stream but cover images and extra info was removed
 
-`---sorted.m3u` is exactly like the everything stream but the links themselves are sorted alphabetically/numerically, it's good for when you have found a good radio station with many different genres of music to listen to all of them in order
+`---randomized.m3u` is exactly like the everything-lite stream but every line was shuffled and randomized
 
-these 3 files have had extra info, cover images and duplicate links removed to make them smaller and easier to download/load into a player, every time i push an update these 3 files will also get updated and the randomized stream will also get shuffled again
+`---sorted.m3u` is exactly like the everything-lite stream but the links themselves are sorted alphabetically/numerically, it's good for when you have found a good radio station with many different genres of music to listen to all of them in order
+
+every time i push an update these 4 files will also get updated and the randomized stream will also get shuffled again
 
 ### How to listen to these?
 in the terminal, do this:
@@ -114,20 +116,26 @@ the flags we used with aria2 is as follows: `-x 16` tells aria2 to use 16 connec
 for f in ~/Music/bare_m3u/*.m3u ; do mv "$f" "$(echo "$f" | sed -e 's/top_radio_//g')"; done
 ```
 
-4rd step: make the ---everything.m3u out of our downloaded m3u files
+4rd step: make the ---everything-full.m3u out of our downloaded m3u files
 ```
-cat $( ls ~/Music/bare_m3u/*.m3u -v ) | sed -n '/^#/!p' | awk '!seen[$0]++' > ~/Music/bare_m3u/---everything.m3u
+cat $( ls ~/Music/bare_m3u/*.m3u -v ) | awk '!seen[$0]++' > ~/Music/bare_m3u/---everything-full.m3u
 ```
-because `cat` doesn't list alphabetically we use `ls` in tandem with it, use `sed` to remove every line that starts with `#` to make the final file smaller and write everything to the final m3u stream and `awk` here remove duplicate lines
+because `cat` doesn't list alphabetically we use `ls` in tandem with it
 
+make the lite version of everything-full
+```
+cat ~/Music/bare_m3u/---everything-full.m3u | sed -n '/^#/!p' > ~/Music/bare_m3u/---everything-lite.m3u
+```
+use `sed` to remove every line that starts with `#` to make the final file smaller and write everything to the final m3u stream and `awk` here remove duplicate lines
+  
 5rd step: make the ---randomized.m3u and ---sorted.m3u stream by shuffling the contents of ---everything.m3u
 ```
-cat ~/Music/bare_m3u/---everything.m3u | shuf > ~/Music/bare_m3u/---randomized.m3u
+cat ~/Music/bare_m3u/---everything-lite.m3u | shuf > ~/Music/bare_m3u/---randomized.m3u
 ```
 `shuf` does the shuffling for us
 
 ```
-cat ~/Music/bare_m3u/---everything.m3u | sort | awk 'length>10' > ~/Music/bare_m3u/---sorted.m3u
+cat ~/Music/bare_m3u/---everything-lite.m3u | sort | awk 'length>10' > ~/Music/bare_m3u/---sorted.m3u
 ```
 `sort` sorts the links for us and we use `awk` to remove the few broken links that are less than 10 characters 
   
@@ -156,9 +164,10 @@ now for the complete script, save it to a file and give it `.sh` extension and r
 
 /usr/bin/aria2c -x 16 -j 4 -i ~/Music/list.txt -d ~/Music/bare_m3u/
 for f in ~/Music/bare_m3u/*.m3u ; do mv "$f" "$(echo "$f" | sed -e 's/top_radio_//g')"; done
-cat $( ls ~/Music/bare_m3u/*.m3u -v ) | sed -n '/^#/!p' | awk '!seen[$0]++' > ~/Music/bare_m3u/---everything.m3u
-cat ~/Music/bare_m3u/---everything.m3u | shuf > ~/Music/bare_m3u/---randomized.m3u
-cat ~/Music/bare_m3u/---everything.m3u | sort | awk 'length>10' > ~/Music/bare_m3u/---sorted.m3u
+cat $( ls ~/Music/bare_m3u/*.m3u -v ) | awk '!seen[$0]++' > ~/Music/bare_m3u/---everything-full.m3u
+cat ~/Music/bare_m3u/---everything-full.m3u | sed -n '/^#/!p' > ~/Music/bare_m3u/---everything-lite.m3u
+cat ~/Music/bare_m3u/---everything-lite.m3u | shuf > ~/Music/bare_m3u/---randomized.m3u
+cat ~/Music/bare_m3u/---everything-lite.m3u | sort | awk 'length>10' > ~/Music/bare_m3u/---sorted.m3u
 mv ~/Music/bare_m3u/*.m3u ~/Music/m3u-radio-music-playlists
 git -C ~/Music/m3u-radio-music-playlists add .
 git -C ~/Music/m3u-radio-music-playlists commit -m "updating"
