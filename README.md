@@ -116,17 +116,17 @@ the flags we used with aria2 is as follows: `-x 16` tells aria2 to use 16 connec
 for f in ~/Music/bare_m3u/*.m3u ; do mv "$f" "$(echo "$f" | sed -e 's/top_radio_//g')"; done
 ```
 
-4rd step: make the ---everything-full.m3u out of our downloaded m3u files
+4rd step: make the `---everything-full.m3u` out of our downloaded m3u files
 ```
 cat $( ls ~/Music/bare_m3u/*.m3u -v ) | awk '!seen[$0]++' > ~/Music/bare_m3u/---everything-full.m3u
 ```
-because `cat` doesn't list alphabetically we use `ls` in tandem with it
+because `cat` doesn't list alphabetically we use `ls` in tandem with it, use `awk` to remove duplicate lines
 
 make the lite version of everything-full
 ```
 cat ~/Music/bare_m3u/---everything-full.m3u | sed -n '/^#/!p' > ~/Music/bare_m3u/---everything-lite.m3u
 ```
-use `sed` to remove every line that starts with `#` to make the final file smaller and write everything to the final m3u stream and `awk` here remove duplicate lines
+use `sed` to remove every line that starts with `#` to make the final file smaller and write everything to the final m3u stream
   
 5rd step: make the ---randomized.m3u and ---sorted.m3u stream by shuffling the contents of ---everything.m3u
 ```
