@@ -122,7 +122,7 @@ cat $( ls ~/Music/bare_m3u/*.m3u -v ) | awk '!seen[$0]++' > ~/Music/bare_m3u/---
 ```
 because `cat` doesn't list alphabetically we use `ls` in tandem with it, use `awk` to remove duplicate lines
 
-make the lite version of everything-full
+4.5 step: make the lite version of everything-full
 ```
 cat ~/Music/bare_m3u/---everything-full.m3u | sed -n '/^#/!p' > ~/Music/bare_m3u/---everything-lite.m3u
 ```
