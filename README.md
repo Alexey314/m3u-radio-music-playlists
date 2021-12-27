@@ -78,7 +78,7 @@ PGDWN playlist-next ; show-text "${playlist-pos-1}/${playlist-count}"
 yes there is, use the [IPTV script](https://github.com/gthreepw00d/mpv-iptv) which comes with fuzzy finding stations, better keybinds and ...
 
 ### How to download all of the files?
-go to the [releases page](https://github.com/junguler/m3u-radio-music-playlists/releases) for the latest weekly zip archive or use the [auto-generated zip](https://github.com/junguler/m3u-radio-music-playlists/archive/refs/heads/main.zip) for a more up to date version
+use the [auto-generated zip](https://github.com/junguler/m3u-radio-music-playlists/archive/refs/heads/main.zip) 
 
 you can also run a git clone on this repo
 ```
