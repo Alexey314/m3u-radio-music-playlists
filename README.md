@@ -1,6 +1,4 @@
 ## Collection of m3u Radio Playlists, Updated daily (manually)
-this repo now includes a `radio.m3u` station with various streams collected over time by many people, thanks to [ArnoldSchiller](https://github.com/ArnoldSchiller) for his pull request, this stream is not part of my usual stream updates and won't get updated as often but it's contents are getting included in my 4 own made streams listed below
-
 this repo now includes 4 extra streams made by me
 
 `---everything-full.m3u` combines all of the streams sorted by names that are shown in this repo
@@ -180,3 +178,5 @@ git -C ~/Music/m3u-radio-music-playlists push
 ```
 
 </details>
+
+this repo used to include a `radio.m3u` stream from a pull request of [ArnoldSchiller](https://github.com/ArnoldSchiller) but since it did not receive any updates in over two months i decided to removed it, it can still be found on his fork [here](https://github.com/ArnoldSchiller/m3u-radio-music-playlists)
