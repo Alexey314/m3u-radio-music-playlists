@@ -181,4 +181,4 @@ git -C ~/Music/m3u-radio-music-playlists push
 
 <br>
 
-this repo used to include a `radio.m3u` stream from a pull request of [ArnoldSchiller](https://github.com/ArnoldSchiller) but since it did not receive any updates in over two months i decided to removed it, it can still be found on his fork [here](https://github.com/ArnoldSchiller/m3u-radio-music-playlists)
+this repo used to include a `radio.m3u` stream from a pull request by [ArnoldSchiller](https://github.com/ArnoldSchiller) but since it did not receive any updates in over two months i decided to removed it, it can still be found on his fork [here](https://github.com/ArnoldSchiller/m3u-radio-music-playlists)
